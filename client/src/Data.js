@@ -1,0 +1,51 @@
+export const Data = [
+  {
+    id: 1,
+    name: "Kalem",
+    img: "./public/pencil.jpg",
+    explain: "Tükenmez kalem",
+    price: 20,
+  },
+  {
+    id: 2,
+    name: "Mont",
+    img: "./public/mont.jpg",
+    explain: "Şişme mont",
+    price: 200,
+  },
+  {
+    id: 3,
+    name: "Telefon",
+    img: "./public/phone.jpg",
+    explain: "Son model akıllı telefon",
+    price: 500,
+  },
+  {
+    id: 4,
+    name: "Laptop",
+    img: "./public/laptop.jpg",
+    explain: "Son model Laptop",
+    price: 800,
+  },
+  {
+    id: 5,
+    name: "Kol Saati",
+    img: "./public/watch.jpg",
+    explain: "Gümüş kordon kol saati",
+    price: 250,
+  },
+  {
+    id: 6,
+    name: "Kulaklık",
+    img: "./public/headphone.jpg",
+    explain: "Kulak üstü kulaklık.",
+    price: 150,
+  },
+  {
+    id: 7,
+    name: "Televizyon",
+    img: "./public/tv.jpg",
+    explain: "Son model dev ekran televizyon",
+    price: 600,
+  },
+];

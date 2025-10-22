@@ -34,7 +34,7 @@ function App() {
           element: (
             <PrivateRoute role="admin">
               <AdminDashboard />
-              <AdminProductTable />
+              
             </PrivateRoute>
           ),
         },
